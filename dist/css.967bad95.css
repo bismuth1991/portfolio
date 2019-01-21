@@ -545,6 +545,22 @@ strong {
 
 .Skill--css3 > .Skill-image {
   background-position: -384px 0;
+}
+
+.Skill--jquery > .Skill-image {
+  background-position: -448px 0;
+}
+
+.Skill--postgresql > .Skill-image {
+  background-position: -512px 0;
+}
+
+.Skill--mongodb > .Skill-image {
+  background-position: -576px 0;
+}
+
+.Skill--aws > .Skill-image {
+  background-position: -640px 0;
 }.Container {
   max-width: 50em;
   margin: 0 auto;
