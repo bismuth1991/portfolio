@@ -1,6 +1,0 @@
-{
-  "plugins": {
-    "autoprefixer": true,
-    "postcss-custom-media": true
-  }
-}
