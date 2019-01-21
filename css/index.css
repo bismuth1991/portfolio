@@ -5,7 +5,15 @@
 @import './base/elements';
 
 @import './components/button';
+@import './components/image';
+@import './components/skill';
 @import './components/container';
-@import './components/header';
+@import './components/grid';
+@import './components/feature';
 @import './components/section';
 @import './components/site';
+@import './components/header';
+
+@import './utils/compat';
+@import './utils/media';
+@import './utils/size';
