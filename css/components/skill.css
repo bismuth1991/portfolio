@@ -1,36 +1,40 @@
-.Browser {
+.Skill {
   font-size: .8em;
   text-align: center;
 }
 
-.Browser-image {
+.Skill-image {
   height: 64px;
   width: 64px;
   margin: 0 0.5em 0.5em;
-  background: url('../../images/browser-logos.jpg') no-repeat 0 0;
+  background: url('../../images/skills.png') no-repeat 0 0;
   background-size: auto 100%;
 }
 
-.Browser--chrome > .Browser-image {
+.Skill--javascript > .Skill-image {
   background-position: 0 0;
 }
 
-.Browser--opera > .Browser-image {
+.Skill--react > .Skill-image {
   background-position: -64px 0;
 }
 
-.Browser--firefox > .Browser-image {
+.Skill--redux > .Skill-image {
   background-position: -128px 0;
 }
 
-.Browser--safari > .Browser-image {
+.Skill--ruby > .Skill-image {
   background-position: -192px 0;
 }
 
-.Browser--ie > .Browser-image {
+.Skill--rails > .Skill-image {
   background-position: -256px 0;
 }
 
-.Browser--edge > .Browser-image {
+.Skill--html5 > .Skill-image {
   background-position: -320px 0;
+}
+
+.Skill--css3 > .Skill-image {
+  background-position: -384px 0;
 }
