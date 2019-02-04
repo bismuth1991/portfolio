@@ -1,4 +1,4 @@
-@import 'normalize.css';
+@import './base/normalize.scss';
 
 @import './base/variables';
 @import './base/custom-media';
@@ -14,6 +14,5 @@
 @import './components/site';
 @import './components/header';
 
-@import './utils/compat';
 @import './utils/media';
 @import './utils/size';
